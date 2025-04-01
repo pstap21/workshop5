@@ -15,7 +15,7 @@ Orchestra::~Orchestra() {
 
 }
 
-int Orchestra::get_currrent_members(){
+int Orchestra::get_currrent_number_of_members(){
     return current_size;
 }
 

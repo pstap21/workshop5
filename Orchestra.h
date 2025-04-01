@@ -21,7 +21,7 @@ Orchestra(int size);
 
 ~Orchestra();
 
-int get_currrent_members();
+int get_currrent_number_of_members();
 
 bool has_instrument(std::string instrument);
 
