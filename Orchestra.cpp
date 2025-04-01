@@ -1,4 +1,5 @@
 #include "Orchestra.h"
+#include "Musician.h"
 
 Orchestra::Orchestra() : members(nullptr), max_size(0), current_size(0) {}
 
