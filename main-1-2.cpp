@@ -55,7 +55,7 @@ int main() {
 
     //printing number of members in the orchestra
 
-    std::cout << "The current number of Orchestra members is: " << orchestra.get_currrent_members() << std::endl;
+    std::cout << "The current number of Orchestra members is: " << orchestra.get_currrent_number_of_members() << std::endl;
 
 
     //check if the Orchestra has a musician who plays the flute
